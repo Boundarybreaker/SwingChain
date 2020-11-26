@@ -1,0 +1,14 @@
+{
+  	"defaultMaterial": "canvas:warm_glow",
+
+  	"variants": {
+	    "hanging=false,lit=false,waterlogged=true": { "defaultMaterial": "canvas:default" },
+      "hanging=false,lit=false,waterlogged=false": { "defaultMaterial": "canvas:default" },
+	    "hanging=true,lit=false,waterlogged=true": { "defaultMaterial": "canvas:leaves" },
+      "hanging=true,lit=false,waterlogged=false": { "defaultMaterial": "canvas:leaves" },
+      "hanging=false,lit=true,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+      "hanging=false,lit=true,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+	    "hanging=true,lit=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+      "hanging=true,lit=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" }
+  	}
+}

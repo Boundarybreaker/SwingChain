@@ -1,0 +1,10 @@
+{
+  	"defaultMaterial": "canvas:luminance_glow",
+
+  	"variants": {
+	    "hanging=false,waterlogged=true": { "defaultMaterial": "canvas:luminance_glow" },
+      "hanging=false,waterlogged=false": { "defaultMaterial": "canvas:luminance_glow" },
+	    "hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_luminance_glow" },
+      "hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_luminance_glow" }
+  	}
+}

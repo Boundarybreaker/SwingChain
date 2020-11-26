@@ -1,0 +1,31 @@
+
+{
+  	"defaultMaterial": "canvas:warm_glow",
+
+  	"variants": {
+        "facing=north,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=north,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=north,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=north,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=east,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=east,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=east,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=east,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=south,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=south,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=south,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=south,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=west,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=west,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=west,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=west,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=up,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=up,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=up,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=up,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=down,hanging=false,waterlogged=true": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=down,hanging=false,waterlogged=false": { "defaultMaterial": "canvas:warm_glow" },
+        "facing=down,hanging=true,waterlogged=true": { "defaultMaterial": "swingchain:swinging_warm_glow" },
+        "facing=down,hanging=true,waterlogged=false": { "defaultMaterial": "swingchain:swinging_warm_glow" }
+  	}
+}
